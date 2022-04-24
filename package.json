@@ -1,0 +1,12 @@
+{
+  "name": "hw_nodejs",
+  "version": "0.0.1",
+  "description": "Node JS",
+  "dependencies": {
+    "express": "4.17.3",
+    "twig": "1.15.4",
+    "body-parser": "1.19.2"
+  },
+  "author": "Irina Vereshchagina <hjr462@mail.ru>",
+  "license": "MIT"
+}
